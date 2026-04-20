@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="木马研发/木马研发.vcxproj" Id="e6c62d59-a281-4c25-ae32-3afc4dbacd71" />
+</Solution>
